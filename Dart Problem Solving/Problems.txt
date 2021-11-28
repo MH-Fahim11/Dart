@@ -1,13 +1,47 @@
-1.Create a program that asks the user to enter their name and their age. Print out a message that tells how many years they have to be 100 years old.
-2.Ask the user for a number. Depending on whether the number is even or odd, print out an appropriate message to the user.
-3.Take a list, say for example this one:
+1. Create a program that asks the user to enter their name and their age. Print out a message that tells how many years they have to be 100 years old.
+
+2. Ask the user for a number. Depending on whether the number is even or odd, print out an appropriate message to the user.
+
+3. Take a list, say for example this one:
     a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
    and write a program that prints out all the elements of the list that are less than 5.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
+   
+4. Create a program that asks the user for a number and then prints out a list of all the divisors of that number.
+   If you don’t know what a divisor is, it is a number that divides evenly into another number.
+   For example, 13 is a divisor of 26 because 26 / 13 has no remainder.
+   
+5. Take two lists, for example:
+   a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
+   b = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+   and write a program that returns a list that contains only the elements that are common between them (without duplicates). 
+   Make sure your program works on two lists of different sizes.
+   
+6. Ask the user for a string and print out whether this string is a palindrome or not.
+    A palindrome is a string that reads the same forwards and backwards.
+    
+7. Let’s say you are given a list saved in a variable:
+   a = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]. 
+   Write a Dart code that takes this list and makes a new list that has only the even elements of this list in it.
+   
+8. Make a two-player Rock-Paper-Scissors game against computer.
+   Ask for player’s input, compare them, print out a message to the winner.
+   
+9. Generate a random number between 1 and 100. Ask the user to guess the number, then tell them whether they guessed too low, too high, or exactly right.
+   Keep track of how many guesses the user has taken, and when the game ends, print this out.
+   
+10.Ask the user for a number and determine whether the number is prime or not.
+   Do it using a function.
+   
+11.Write a program that takes a list of numbers for example
+   a = [5, 10, 15, 20, 25]
+   and makes a new list of only the first and last elements of the given list. For practice, write this code inside a function.
+   
+12.Write a program that asks the user how many Fibonnaci numbers to generate and then generates them. Take this opportunity to think about how you can use functions.
+   Make sure to ask the user to enter the number of numbers in the sequence to generate.
+
+13.
+14.
+15.
+16.
+17.
+18.
