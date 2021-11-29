@@ -1,8 +1,9 @@
 # Practice Dart - exercises for beginners to Advance.
 
-1.  Create a program that asks the user to enter their name and their age. Print out a message that tells how many years they have to be 100 years old.  <a href="Dart Problem Solving/Exercise 1.dart" target="blank">Slove</a>
+1.  Create a program that asks the user to enter their name and their age. Print out a message that tells how many years they have to be 100 years old.  <a href="Dart Problem solutions/Exercise_1.dart" target="blank">Slove</a>
 
-2.  Ask the user for a number. Depending on whether the number is even or odd, print out an appropriate message to the user.
+2.  Ask the user for a number. Depending on whether the number is even or odd, print out an appropriate message to the user.  <a href="Dart Problem solutions/Exercise_2.dart" target="blank">Slove</a>
+
 
 3.  Take a list, say for example this one: <br/>
      a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]<br/>
