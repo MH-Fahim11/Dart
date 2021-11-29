@@ -1,6 +1,6 @@
 # Practice Dart - exercises for beginners to Advance.
 
-1.  Create a program that asks the user to enter their name and their age. Print out a message that tells how many years they have to be 100 years old.
+1.  Create a program that asks the user to enter their name and their age. Print out a message that tells how many years they have to be 100 years old.  <a href="Solve/Exercise 1.dart" target="blank">Slove</a>
 
 2.  Ask the user for a number. Depending on whether the number is even or odd, print out an appropriate message to the user.
 
@@ -107,5 +107,11 @@
     You should keep track of who won - if there is a winner, show a congratulatory message on the screen.
     If there are no more moves left, don’t ask for the next player’s move!<br/>
     Keep in mind, the current solution is not just a copy pase of functions from the previous exercises, but rather a rework of them.
+    
+    
+    
+    
+    
+   
 
 
