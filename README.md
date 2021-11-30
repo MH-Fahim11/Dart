@@ -8,16 +8,17 @@
 3.  Take a list, say for example this one: <br/>
      a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]<br/>
     and write a program that prints out all the elements of the list that are less than 5.
+    <a href="Dart Problem solutions/Exercise_3.dart" target="blank">Slove</a>
    
 4.  Create a program that asks the user for a number and then prints out a list of all the divisors of that number.
     If you don’t know what a divisor is, it is a number that divides evenly into another number.<br/>
-    For example, 13 is a divisor of 26 because 26 / 13 has no remainder.
+    For example, 13 is a divisor of 26 because 26 / 13 has no remainder.<a href="Dart Problem solutions/Exercise_4.dart" target="blank">Slove</a>
    
 5.  Take two lists, for example:<br/>
      a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]<br/>
      b = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]<br/>
     and write a program that returns a list that contains only the elements that are common between them (without duplicates). <br/>
-    Make sure your program works on two lists of different sizes.
+    Make sure your program works on two lists of different sizes.<a href="Dart Problem solutions/Exercise_5.dart" target="blank">Slove</a>
    
 6.  Ask the user for a string and print out whether this string is a palindrome or not.
      A palindrome is a string that reads the same forwards and backwards.
