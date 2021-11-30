@@ -1,13 +1,12 @@
 import 'dart:io';
 
 void main() {
-  stdout.write("Hi, please choose a number: ");
-  int number = int.parse(stdin.readLineSync());
-
-  if (number % 2 == 0) {
-    print("Chosen number is even");
-  } 
-  else {
-    print("Chosen number is odd");
-  }
+    print("Input a Number:");
+    int num = int.parse(stdin.readLineSync()!); //Null Safety    
+    if(num % 2 == 0){
+    print('Number is Evan');
+    }
+    else {
+    print('Number is Odd');
+    }  
 }
