@@ -108,3 +108,6 @@ Practice Dart - exercises for beginners to Advance.
     If there are no more moves left, don’t ask for the next player’s move!
     Keep in mind, the current solution is not just a copy pase of functions from the previous exercises, but rather a rework of them.
 
+
+
+https://hackmd.io/RW9K9FKDQrGyCaOnMz1L8g
