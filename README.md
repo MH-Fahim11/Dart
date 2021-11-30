@@ -18,7 +18,7 @@
      a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]<br/>
      b = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]<br/>
     and write a program that returns a list that contains only the elements that are common between them (without duplicates). <br/>
-    Make sure your program works on two lists of different sizes.<a href="Dart Problem solutions/Exercise_5.dart" target="blank">Slove</a>
+    Make sure your program works on two lists of different sizes.<a href="Dart Problem solutions/Exercise_5.dart" target="blank">Slove 2</a><a href="Dart Problem solutions/Exercise_5(2).dart" target="blank">Slove 2</a>
    
 6.  Ask the user for a string and print out whether this string is a palindrome or not.
      A palindrome is a string that reads the same forwards and backwards.
