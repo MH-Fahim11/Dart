@@ -21,20 +21,20 @@
     Make sure your program works on two lists of different sizes.<a href="Dart Problem solutions/Exercise_5.dart" target="blank">Slove 1</a> <a href="Dart Problem solutions/Exercise_5(2).dart" target="blank">Slove 2</a>
    
 6.  Ask the user for a string and print out whether this string is a palindrome or not.
-     A palindrome is a string that reads the same forwards and backwards.
+     A palindrome is a string that reads the same forwards and backwards.<a href="Dart Problem solutions/Exercise_6.dart" target="blank">Slove</a>
     
 7.  Let’s say you are given a list saved in a variable:<br/>
      a = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]. <br/>
-    Write a Dart code that takes this list and makes a new list that has only the even elements of this list in it.
+    Write a Dart code that takes this list and makes a new list that has only the even elements of this list in it.<a href="Dart Problem solutions/Exercise_7.dart" target="blank">Slove</a>
    
 8.  Make a two-player Rock-Paper-Scissors game against computer.
-    Ask for player’s input, compare them, print out a message to the winner.
+    Ask for player’s input, compare them, print out a message to the winner.<a href="Dart Problem solutions/Exercise_8.dart" target="blank">Slove</a>
    
 9.  Generate a random number between 1 and 100. Ask the user to guess the number, then tell them whether they guessed too low, too high, or exactly right.<br/>
-    Keep track of how many guesses the user has taken, and when the game ends, print this out.
+    Keep track of how many guesses the user has taken, and when the game ends, print this out.<a href="Dart Problem solutions/Exercise_9.dart" target="blank">Slove</a>
    
 10. Ask the user for a number and determine whether the number is prime or not.<br/>
-    Do it using a function.
+    Do it using a function.<a href="Dart Problem solutions/Exercise_10.dart" target="blank">Slove</a>
    
 11. Write a program that takes a list of numbers for example:<br/>
      a = [5, 10, 15, 20, 25]<br/>
