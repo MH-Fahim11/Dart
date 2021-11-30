@@ -6,7 +6,8 @@ void main() {
 
   if (number % 2 == 0) {
     print("Chosen number is even");
-  } else {
+  } 
+  else {
     print("Chosen number is odd");
   }
 }
