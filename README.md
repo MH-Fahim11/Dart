@@ -43,7 +43,7 @@
 12. Write a program that asks the user how many Fibonnaci numbers to generate and then generates them. Take this opportunity to think about how you can use functions.
     Make sure to ask the user to enter the number of numbers in the sequence to generate. <a href="Dart Problem solutions/Exercise_12.dart" target="blank">Slove</a>
 
-13. Write a program (function) that takes a list and returns a new list that contains all the elements of the first list minus all the duplicates.
+13. Write a program (function) that takes a list and returns a new list that contains all the elements of the first list minus all the duplicates. <a href="Dart Problem solutions/Exercise_13.dart" target="blank">Slove</a>
 
 14. Write a program (using functions!) that asks the user for a long string containing multiple words.<br/> 
     Print back to the user the same string, except with the words in backwards order.
